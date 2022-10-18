@@ -3,8 +3,11 @@
 - 🌱 I’m currently learning a python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
+
   Gmail: qobiljonx03@gmail.com
+  
   Telegram: @qobiljonqosimov
+  
   Instagram: @cody___0_0___
 
 <!---
@@ -13,4 +16,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 !!!UPDATES SOON!!!
+
 !!!STAY TUNED!!!
