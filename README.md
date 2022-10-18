@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cody0313
-- 👀 I’m interested in AI and Cyber Security
-- 🌱 I’m currently learning a python
+<!- 👀 I’m interested in AI and Cyber Security>
+<!- 🌱 I’m currently learning a python>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 
