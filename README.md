@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 
-  Gmail: qobiljonx03@gmail.com
+                      Gmail: qobiljonx03@gmail.com
   
-  Telegram: @qobiljonqosimov
+                      Telegram: @qobiljonqosimov
   
-  Instagram: @cody___0_0___
+                      Instagram: @cody___0_0___
 
 <!---
 cody0313/cody0313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
