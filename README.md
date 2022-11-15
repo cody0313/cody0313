@@ -6,7 +6,7 @@
 
     Gmail: qobiljonx03@gmail.com
   
-    Telegram: @qobiljonqosimov
+    Telegram: @cody0313
   
     Instagram: @cody___0_0___
 
@@ -14,7 +14,3 @@
 cody0313/cody0313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-!!!UPDATES SOON!!!
-
-!!!STAY TUNED!!!
